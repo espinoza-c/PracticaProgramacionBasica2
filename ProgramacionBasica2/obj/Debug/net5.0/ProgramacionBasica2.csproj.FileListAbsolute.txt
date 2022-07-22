@@ -1,0 +1,16 @@
+C:\Users\a875026\source\repos\ProgramacionBasica2\ProgramacionBasica2\bin\Debug\net5.0\ProgramacionBasica2.exe
+C:\Users\a875026\source\repos\ProgramacionBasica2\ProgramacionBasica2\bin\Debug\net5.0\ProgramacionBasica2.deps.json
+C:\Users\a875026\source\repos\ProgramacionBasica2\ProgramacionBasica2\bin\Debug\net5.0\ProgramacionBasica2.runtimeconfig.json
+C:\Users\a875026\source\repos\ProgramacionBasica2\ProgramacionBasica2\bin\Debug\net5.0\ProgramacionBasica2.runtimeconfig.dev.json
+C:\Users\a875026\source\repos\ProgramacionBasica2\ProgramacionBasica2\bin\Debug\net5.0\ProgramacionBasica2.dll
+C:\Users\a875026\source\repos\ProgramacionBasica2\ProgramacionBasica2\bin\Debug\net5.0\ProgramacionBasica2.pdb
+C:\Users\a875026\source\repos\ProgramacionBasica2\ProgramacionBasica2\obj\Debug\net5.0\ProgramacionBasica2.csproj.AssemblyReference.cache
+C:\Users\a875026\source\repos\ProgramacionBasica2\ProgramacionBasica2\obj\Debug\net5.0\ProgramacionBasica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a875026\source\repos\ProgramacionBasica2\ProgramacionBasica2\obj\Debug\net5.0\ProgramacionBasica2.AssemblyInfoInputs.cache
+C:\Users\a875026\source\repos\ProgramacionBasica2\ProgramacionBasica2\obj\Debug\net5.0\ProgramacionBasica2.AssemblyInfo.cs
+C:\Users\a875026\source\repos\ProgramacionBasica2\ProgramacionBasica2\obj\Debug\net5.0\ProgramacionBasica2.csproj.CoreCompileInputs.cache
+C:\Users\a875026\source\repos\ProgramacionBasica2\ProgramacionBasica2\obj\Debug\net5.0\ProgramacionBasica2.dll
+C:\Users\a875026\source\repos\ProgramacionBasica2\ProgramacionBasica2\obj\Debug\net5.0\refint\ProgramacionBasica2.dll
+C:\Users\a875026\source\repos\ProgramacionBasica2\ProgramacionBasica2\obj\Debug\net5.0\ProgramacionBasica2.pdb
+C:\Users\a875026\source\repos\ProgramacionBasica2\ProgramacionBasica2\obj\Debug\net5.0\ProgramacionBasica2.genruntimeconfig.cache
+C:\Users\a875026\source\repos\ProgramacionBasica2\ProgramacionBasica2\obj\Debug\net5.0\ref\ProgramacionBasica2.dll
